@@ -9,7 +9,7 @@ It provides three core modules designed to support **object-wise sub-relation ba
 
 | File / Folder | Description |
 |----------------|-------------|
-| `object_wise_sub_discovery.py` | Implements object-type–wise sub-relation–based process discovery using PM4Py and OCEL 2.0. |
+| `object_wise_sub_relation_based_discovery.py` | Implements object-type–wise sub-relation–based process discovery using PM4Py and OCEL 2.0. |
 | `complexity_dashboard.py` | Computes and visualizes **complexity metrics** (inter-object, intra-object, and structural complexity) for discovered OCPNs and OCDFGs. |
 | `complexity_comparison.py` | Compares multiple OCELs based on their discovered models’ complexity metrics to assess structural differences. |
 | `noisy_data/` | Contains sample OCEL 2.0 JSON logs for experimentation. |
